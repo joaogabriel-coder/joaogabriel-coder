@@ -1,7 +1,7 @@
 # 👨‍💻 João Gabriel 
 **`Desenvolvedor`**
 
-Me chamo João Gabriel, tenho 19 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FEMA e sou um grande fã da tecnologia.
+Me chamo João Gabriel, tenho 18 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FEMA e sou um grande fã da tecnologia.
 
 ---
 
