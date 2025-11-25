@@ -65,16 +65,5 @@ Me chamo João Gabriel, tenho 19 anos e estou atualmente cursando Análise e Des
 />
 <br/>
 <br/>
-### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
