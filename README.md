@@ -56,6 +56,14 @@ Me chamo João Gabriel, tenho 19 anos e estou atualmente cursando Análise e Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+<img 
+    align="left" 
+    alt="laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+/>
 <br/>
 <br/>
 
