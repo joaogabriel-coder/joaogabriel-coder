@@ -75,6 +75,4 @@ Me chamo João Gabriel, tenho 19 anos e estou atualmente cursando Análise e Des
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/joaogabriel-coder/joaogabriel-coder/output/snake.svg" alt="Snake animation" />
 
-###
