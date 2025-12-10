@@ -75,5 +75,5 @@ Me chamo João Gabriel, tenho 19 anos e estou atualmente cursando Análise e Des
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabriel-coder&show_icons=true&bg_color=00000000)
+
 
